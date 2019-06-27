@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Rider_ScheduleSA</members>
+        <members>Rider_GetSlots</members>
+        <members>Rider_UpdateDisplayStartTime</members>
+        <members>Rider_GenerateServiceReportURL</members>
+        <members>Rider_Tests</members>
+        <members>Rider_GetAppointmentStatus</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Rider_Check_Context</members>
+        <members>Rider_Create_SA</members>
+        <members>Rider_Get_Appointments</members>
+        <members>Rider_Get_Contact_Info</members>
+        <members>Rider_Slot_Selection_Choose_Own</members>
+        <members>Rider_Update_Appointment_Status</members>
+        <members>Rider_Outbound_Notifications</members>
+        <name>Flow</name>
+    </types>
+    
+    <types>
+        <members>ServiceAppointment.Rider_ContactFirstName__c</members>
+        <members>ServiceAppointment.Rider_ServiceReport_URL__c</members>
+        <members>ServiceAppointment.Rider_StartTime__c</members>
+        
+        <members>Contact.Rider_BotContext__c</members>
+        <members>Contact.Rider_Enabled__c</members>
+        <members>Contact.Rider_ServiceTerritory__c</members>
+
+        <name>CustomField</name>
+    </types>
+
+    <version>45.0</version>
+</Package>

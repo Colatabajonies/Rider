@@ -1,0 +1,13 @@
+DEVELOPERNAME,LANGUAGE,MASTERLABEL,MESSAGE,DESCRIPTION
+Rider_Scheduled,en_US,Rider - Scheduled,"Hi {!ServiceAppointment.Rider_ContactFirstName__c}, your appointment ""{!ServiceAppointment.Subject}"" is scheduled for {!ServiceAppointment.Rider_StartTime__c}. We'll text you status updates, and you can always respond to make changes (ie reschedule, cancel, etc).","When an SA gets scheduled, this message will be sent to the associated Contact."
+Rider_Completed,en_US,Rider - Completed,"Your Appointment ""{!ServiceAppointment.Subject}"" is complete. Thanks for choosing {!Organization.Name}!
+{!ServiceAppointment.Rider_ServiceReport_URL__c}","When an SA is completed, this message will be sent to the associated Contact."
+Rider_Dispatched,en_US,Rider - Dispatched,"You're All Set! ""{!ServiceAppointment.Subject}"" is confirmed for {!ServiceAppointment.Rider_StartTime__c}. We'll let you know when your technician has arrived.","When an SA gets dispatched, this message will be sent to the associated Contact."
+Rider_Onsite,en_US,Rider - OnSite,"{!ServiceAppointment.Rider_ContactFirstName__c}, your technician has arrived for your Appointment ""{!ServiceAppointment.Subject}"".","When the technician arrives for a scheduled SA, this message will be sent to the associated Contact."
+Rider_Canceled,en_US,Rider - Canceled,"{!ServiceAppointment.Rider_ContactFirstName__c}, your Appointment ""{!ServiceAppointment.Subject}"" has been canceled.","When an SA gets canceled, this message will be sent to the associated Contact."
+Rider_Status,en_US,Rider - Status,"Appointment Info:
+{!ServiceAppointment.AppointmentNumber}
+Subject: {!ServiceAppointment.Subject}
+Status: {!ServiceAppointment.Status}
+StartTime: {!ServiceAppointment.Rider_StartTime__c}
+Location: {!ServiceAppointment.Street} {!ServiceAppointment.City}, {!ServiceAppointment.State} {!ServiceAppointment.PostalCode}",This is the template format for a customer requesting their SA status from rider.

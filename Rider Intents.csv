@@ -1,0 +1,566 @@
+﻿Index,MlDomainName,MlIntentName,Utterance
+1,Rider_Intents,Add_Note,add a note
+2,Rider_Intents,Add_Note,add a note to the appointment
+3,Rider_Intents,Add_Note,add note to job
+4,Rider_Intents,Add_Note,Add note
+5,Rider_Intents,Add_Note,notate work order
+6,Rider_Intents,Add_Note,add customer note
+7,Rider_Intents,Add_Note,make note
+8,Rider_Intents,Arrive,arrived at appointment
+9,Rider_Intents,Arrive,onsite
+10,Rider_Intents,Arrive,starting to work
+11,Rider_Intents,Arrive,arrived at customer site
+12,Rider_Intents,Arrive,arrived onsite
+13,Rider_Intents,Arrive,at job
+14,Rider_Intents,Arrive,starting work
+15,Rider_Intents,Arrive,starting job
+16,Rider_Intents,Arrive,here at customer
+17,Rider_Intents,Arrive,here onsite
+18,Rider_Intents,Arrive,Arrived
+19,Rider_Intents,Arrive,work starting
+20,Rider_Intents,Arrive,at customer site
+21,Rider_Intents,Arrive,job in progress
+22,Rider_Intents,Arrive,Arrive
+23,Rider_Intents,Arrive,I'm here
+24,Rider_Intents,Arrive,starting appointment
+25,Rider_Intents,Arrive,job starting
+26,Rider_Intents,Arrive,beginning work
+27,Rider_Intents,Arrive,beginning
+28,Rider_Intents,Arrive,beginning job
+29,Rider_Intents,Cancel_Appointment,remove appointment
+30,Rider_Intents,Cancel_Appointment,cancel that
+31,Rider_Intents,Cancel_Appointment,i have to cancel
+32,Rider_Intents,Cancel_Appointment,cancel appointment
+33,Rider_Intents,Cancel_Appointment,cancel my appointment
+34,Rider_Intents,Cancel_Appointment,i cant make it
+35,Rider_Intents,Cancel_Appointment,how do I cancel?
+36,Rider_Intents,Cancel_Appointment,lets cancel my appointment
+37,Rider_Intents,Cancel_Appointment,"Sorry, but I need to cancel."
+38,Rider_Intents,Cancel_Appointment,I'm going to need to cancel my repair appointment
+39,Rider_Intents,Cancel_Appointment,I'd better cancel that visit. I won't be home after all
+40,Rider_Intents,Cancel_Appointment,cancel
+41,Rider_Intents,Cancel_Appointment,"sorry, i cant make that appointment"
+42,Rider_Intents,Cancel_Appointment,I need to cancel
+43,Rider_Intents,Cancel_Appointment,I wanna cancel my scheduled home visit
+44,Rider_Intents,Cancel_Appointment,Where do I go to cancel my install?
+45,Rider_Intents,Cancel_Appointment,I need to cancel my appointment for now. Something else came up.
+46,Rider_Intents,Cancel_Appointment,Let's cancel the installation for now. I'm not quite ready yet
+47,Rider_Intents,Cancel_Appointment,I need to cancel my appointment
+48,Rider_Intents,Cancel_Appointment,cancel this
+49,Rider_Intents,Cancel_Appointment,How can I cancel?
+50,Rider_Intents,Complete,finish job
+51,Rider_Intents,Complete,close job
+52,Rider_Intents,Complete,close work
+53,Rider_Intents,Complete,job all set here
+54,Rider_Intents,Complete,work all set
+55,Rider_Intents,Complete,Complete
+56,Rider_Intents,Complete,I'm done
+57,Rider_Intents,Complete,job completed
+58,Rider_Intents,Complete,complete job
+59,Rider_Intents,Complete,appointment finished
+60,Rider_Intents,Complete,completed my work
+61,Rider_Intents,Complete,job done
+62,Rider_Intents,Complete,done
+63,Rider_Intents,Complete,appointment completed
+64,Rider_Intents,Complete,work done
+65,Rider_Intents,Complete,complete appointment
+66,Rider_Intents,Complete,job finished
+67,Rider_Intents,Complete,Completed
+68,Rider_Intents,Complete,finished
+69,Rider_Intents,Complete,completed appointment
+70,Rider_Intents,Complete,appointment done
+71,Rider_Intents,Confirm_Appointment,Accept
+72,Rider_Intents,Confirm_Appointment,Accepted
+73,Rider_Intents,Confirm_Appointment,Confirm
+74,Rider_Intents,Confirm_Appointment,dispatch
+75,Rider_Intents,Confirm_Appointment,dispatch that
+76,Rider_Intents,Confirm_Appointment,confirm that appointment
+77,Rider_Intents,Confirm_Appointment,confirm my appointment
+78,Rider_Intents,Confirm_Appointment,that time works for me
+79,Rider_Intents,Confirm_Appointment,lets go with that time
+80,Rider_Intents,Confirm_Appointment,confirm the appointment
+81,Rider_Intents,Confirm_Appointment,that time is good
+82,Rider_Intents,Confirm_Appointment,confirm that
+83,Rider_Intents,Confirm_Appointment,customer confirmed
+84,Rider_Intents,Confirm_Appointment,Confirmed
+85,Rider_Intents,Confirm_Appointment,that works
+86,Rider_Intents,Confirm_Appointment,confirm appointment
+87,Rider_Intents,Confirm_Appointment,dispatched
+88,Rider_Intents,Confirm_Appointment,appointment time works
+89,Rider_Intents,Confirm_Appointment,appointment is dispatched
+90,Rider_Intents,Confirm_Appointment,That sounds good
+91,Rider_Intents,Confirm_Appointment,i can make that work
+92,Rider_Intents,Confirm_Appointment,that sounds good to me
+93,Rider_Intents,Confirm_Appointment,appointment confirmed
+94,Rider_Intents,Get_Appointment_Status,What's my appointment status?
+95,Rider_Intents,Get_Appointment_Status,What's my appointment ETA?
+96,Rider_Intents,Get_Appointment_Status,What's your ETA?
+97,Rider_Intents,Get_Appointment_Status,Status of my appointment
+98,Rider_Intents,Get_Appointment_Status,What time is my appointment?
+99,Rider_Intents,Get_Appointment_Status,When will my tech arrive?
+100,Rider_Intents,Get_Appointment_Status,Where is my tech?
+101,Rider_Intents,Get_Appointment_Status,What time will they get here?
+102,Rider_Intents,Get_Appointment_Status,How far away is your technician?
+103,Rider_Intents,Get_Appointment_Status,What's the ETA for the driver?
+104,Rider_Intents,Get_Appointment_Status,How far away is the driver right now?
+105,Rider_Intents,Get_Appointment_Status,status of appointment
+106,Rider_Intents,Get_Appointment_Status,what's the ETA?
+107,Rider_Intents,Get_Appointment_Status,latest eta?
+108,Rider_Intents,Get_Appointment_Status,current ETA
+109,Rider_Intents,Get_Appointment_Status,are you guys coming?
+110,Rider_Intents,Get_Appointment_Status,my appointment status
+111,Rider_Intents,Get_Appointment_Status,what's the latest status?
+112,Rider_Intents,Get_Appointment_Status,Appointment Status
+113,Rider_Intents,Get_Appointment_Status,latest status
+114,Rider_Intents,Get_Appointment_Status,when will you show up?
+115,Rider_Intents,Get_Appointment_Status,whats the status?
+116,Rider_Intents,Get_Appointment_Status,my status?
+117,Rider_Intents,Get_Appointment_Status,what is your ETA?
+118,Rider_Intents,Get_Appointment_Status,whats the status of my appointment?
+119,Rider_Intents,Get_Appointment_Status,are we still ontime for my appointment?
+120,Rider_Intents,Get_Appointment_Status,when are you coming?
+121,Rider_Intents,Get_Appointment_Status,status
+122,Rider_Intents,Get_Appointment_Status,get status
+123,Rider_Intents,Get_Appointment_Status,get appointment status
+124,Rider_Intents,Get_Appointment_Status,are we still on for the appointment?
+125,Rider_Intents,Get_Appointment_Status,ETA
+126,Rider_Intents,Greetings,Hey Tracker
+127,Rider_Intents,Greetings,Hi Tracker
+128,Rider_Intents,Greetings,Whats up Tracker
+129,Rider_Intents,Greetings,Tracker
+130,Rider_Intents,Greetings,Hello
+131,Rider_Intents,Greetings,Howdy
+132,Rider_Intents,Greetings,Hello Rider
+133,Rider_Intents,Greetings,What's up?
+134,Rider_Intents,Greetings,Sup
+135,Rider_Intents,Greetings,who are you?
+136,Rider_Intents,Greetings,Sup Rider
+137,Rider_Intents,Greetings,how are you?
+138,Rider_Intents,Greetings,Are you there rider?
+139,Rider_Intents,Greetings,What's up rider?
+140,Rider_Intents,Greetings,Sup man?
+141,Rider_Intents,Greetings,what's happenin rider?
+142,Rider_Intents,Greetings,Yo
+143,Rider_Intents,Greetings,Hi Rider
+144,Rider_Intents,Greetings,Greetings
+145,Rider_Intents,Greetings,You there?
+146,Rider_Intents,Greetings,hello?
+147,Rider_Intents,Greetings,anyone there?
+148,Rider_Intents,Greetings,Hi
+149,Rider_Intents,Greetings,Greetings Rider
+150,Rider_Intents,Greetings,yelllow
+151,Rider_Intents,Greetings,what are you?
+152,Rider_Intents,Main_Menu,Home
+153,Rider_Intents,Main_Menu,Menu
+154,Rider_Intents,Main_Menu,Go home
+155,Rider_Intents,Main_Menu,help!
+156,Rider_Intents,Main_Menu,Can you help me?
+157,Rider_Intents,Main_Menu,main
+158,Rider_Intents,Main_Menu,fsl options
+159,Rider_Intents,Main_Menu,help
+160,Rider_Intents,Main_Menu,help me
+161,Rider_Intents,Main_Menu,rider help
+162,Rider_Intents,Main_Menu,Go back home
+163,Rider_Intents,Main_Menu,Main Options
+164,Rider_Intents,Main_Menu,Main Screen
+165,Rider_Intents,Main_Menu,Start over
+166,Rider_Intents,Main_Menu,back to safety
+167,Rider_Intents,Main_Menu,main menu!
+168,Rider_Intents,Main_Menu,main options
+169,Rider_Intents,Main_Menu,go back!
+170,Rider_Intents,Main_Menu,Back
+171,Rider_Intents,Main_Menu,rider main
+172,Rider_Intents,Main_Menu,help me!
+173,Rider_Intents,Main_Menu,Main Menu
+174,Rider_Intents,Main_Menu,Go Back
+175,Rider_Intents,Main_Menu,start this whole thing over
+176,Rider_Intents,New_Appointment,Please set new appointment
+177,Rider_Intents,New_Appointment,I need someone to fix my panel
+178,Rider_Intents,New_Appointment,I want to schedule an appt
+179,Rider_Intents,New_Appointment,what time can you be here
+180,Rider_Intents,New_Appointment,Need to book appointment
+181,Rider_Intents,New_Appointment,May I please book a new appointment
+182,Rider_Intents,New_Appointment,Schedule appointment
+183,Rider_Intents,New_Appointment,I need someone to come out and take a look at my turbine
+184,Rider_Intents,New_Appointment,Can I book appointment
+185,Rider_Intents,New_Appointment,I would like to schedule a service appointment
+186,Rider_Intents,New_Appointment,Send someone out here
+187,Rider_Intents,New_Appointment,Book appointment
+188,Rider_Intents,New_Appointment,what time can the man come about fixing my stuff
+189,Rider_Intents,New_Appointment,Please have a tech come out to my house to repair my turbine this Friday.
+190,Rider_Intents,New_Appointment,New appt pls
+191,Rider_Intents,New_Appointment,I need help early next week to repair my solar panel at my house.
+192,Rider_Intents,New_Appointment,cracked my solar panel and I need it repaired ASAP.
+193,Rider_Intents,New_Appointment,I need to schedule a service appt
+194,Rider_Intents,New_Appointment,I'd like to schedule a new appointment with someone to take a look at my solar panel installation
+195,Rider_Intents,New_Appointment,I'd like to schedule a new appointment
+196,Rider_Intents,New_Appointment,Can I schedule a new appointment
+197,Rider_Intents,New_Appointment,Book technician
+198,Rider_Intents,New_Appointment,schedule a maintenance appointment
+199,Rider_Intents,New_Appointment,schedule a service appointment
+200,Rider_Intents,New_Appointment,like to make a repair appointment
+201,Rider_Intents,New_Appointment,schedule new appointment
+202,Rider_Intents,New_Appointment,Can I get someone to clean my solar panels?
+203,Rider_Intents,New_Appointment,I want to schedule a thing
+204,Rider_Intents,New_Appointment,Can I get someone to install my panels?
+205,Rider_Intents,New_Appointment,New service appointment
+206,Rider_Intents,New_Appointment,Just had some hail and now our energy is showing low. Can we get someone out to our home to look at it?
+207,Rider_Intents,New_Appointment,Book time
+208,Rider_Intents,New_Appointment,Hey I need to schedule an appointment
+209,Rider_Intents,New_Appointment,Can I make a Service appt
+210,Rider_Intents,New_Appointment,Panel needs someone to replace
+211,Rider_Intents,New_Appointment,My turbine is broken. I need someone to fix it.
+212,Rider_Intents,New_Appointment,Can I make an appointment for someone to look at my solar panels
+213,Rider_Intents,New_Appointment,My battery doesn't seem to be working. I need to get someone to fix it.
+214,Rider_Intents,New_Appointment,what time can the man come about my stuff?
+215,Rider_Intents,New_Appointment,Need technician
+216,Rider_Intents,New_Appointment,Can I schedule a new appointment?
+217,Rider_Intents,New_Appointment,When is the earliest I can schedule service for my solar panels?
+218,Rider_Intents,New_Appointment,What are the times available for a Cirrus Energy technician to perform a service call?
+219,Rider_Intents,New_Appointment,New visit
+220,Rider_Intents,New_Appointment,Onsite help
+221,Rider_Intents,New_Appointment,Help! I can't seem to turn on the tracking meter display. Can we plan another visit by your technician?
+222,Rider_Intents,New_Appointment,Need appt
+223,Rider_Intents,New_Appointment,"Hey Sunny, Can you get someone to my house? One of my solar panels is damaged"
+224,Rider_Intents,New_Appointment,I want to schedule time with a tech for my components including solar panels.
+225,Rider_Intents,New_Appointment,I want to schedule an appointment for service of my wind turbines
+226,Rider_Intents,New_Appointment,I would like to find a time for my installation
+227,Rider_Intents,New_Appointment,Schedule me
+228,Rider_Intents,New_Appointment,I need to have you come out this week to install. Can you be here Friday afternoon?
+229,Rider_Intents,New_Appointment,Can you send me times to schedule an appointment?
+230,Rider_Intents,New_Appointment,My roof is leaking! I think it may be the new solar panels. I need someone here ASAP!
+231,Rider_Intents,New_Appointment,have for a visit?
+232,Rider_Intents,New_Appointment,Book time slot
+233,Rider_Intents,New_Appointment,Book me
+234,Rider_Intents,New_Appointment,Tech onsite
+235,Rider_Intents,New_Appointment,Schedule slot
+236,Rider_Intents,New_Appointment,Find time slot
+237,Rider_Intents,New_Appointment,I am looking to schedule an installation for my panels
+238,Rider_Intents,New_Appointment,I need to schedule an installation
+239,Rider_Intents,New_Appointment,Onsite tech
+240,Rider_Intents,New_Appointment,Hi I would like to schedule a new appointment to install my solar panels.
+241,Rider_Intents,New_Appointment,Can you send me a repair person?
+242,Rider_Intents,New_Appointment,Can you send a maintenance person out?
+243,Rider_Intents,New_Appointment,Can you schedule a repair visit?
+244,Rider_Intents,New_Appointment,"My solar panel needs repair, when can you come onsite?"
+245,Rider_Intents,New_Appointment,When can you have someone onsite to fix my battery issues?
+246,Rider_Intents,New_Appointment,I need to schedule an appointment to fix my wind turbine
+247,Rider_Intents,New_Appointment,I need onsite assistance. Can you help me?
+248,Rider_Intents,New_Appointment,Need to have somebody onsite to fix my solar panels. When can you be here?
+249,Rider_Intents,New_Appointment,Schedule appointment for you to fix my wind turbine
+250,Rider_Intents,New_Appointment,When can you come onsite to fix my battery issues
+251,Rider_Intents,New_Appointment,Need onsite assistance in regards to my turbine issues. When can you be here
+252,Rider_Intents,New_Appointment,Can I schedule an appointment about getting my solar panels adjusted
+253,Rider_Intents,New_Appointment,I need to schedule an onsite resource to fix my solar panel. When can you be here
+254,Rider_Intents,New_Appointment,I need somebody to come onsite to fix my turbine issue. When can you be here
+255,Rider_Intents,New_Appointment,Can I get somebody to come to my plan to adjust the solar panel?
+256,Rider_Intents,New_Appointment,"My phone number has changed, how can I get it updated in your records?"
+257,Rider_Intents,New_Appointment,I need to schedule an appointment
+258,Rider_Intents,New_Appointment,want to schedule an appointment
+259,Rider_Intents,New_Appointment,stopped working
+260,Rider_Intents,New_Appointment,need to bring my in to fix
+261,Rider_Intents,New_Appointment,schedule an appointment
+262,Rider_Intents,New_Appointment,want to bring my for service
+263,Rider_Intents,New_Appointment,needs some repair
+264,Rider_Intents,New_Appointment,want to schedule a visit for service
+265,Rider_Intents,New_Appointment,stop by tomorrow morning so that you can check my
+266,Rider_Intents,New_Appointment,need you to take a look at my
+267,Rider_Intents,New_Appointment,where can I bring my
+268,Rider_Intents,New_Appointment,broke down
+269,Rider_Intents,New_Appointment,needs to be checked
+270,Rider_Intents,New_Appointment,Can you schedule someone to come to my home and take a look at my home energy system?
+271,Rider_Intents,New_Appointment,schedule service appointments
+272,Rider_Intents,New_Appointment,schedule a maintenance appointment
+273,Rider_Intents,New_Appointment,schedule a service appointment
+274,Rider_Intents,New_Appointment,like to make a repair appointment
+275,Rider_Intents,New_Appointment,got damaged in a storm i need to bring it in for service
+276,Rider_Intents,New_Appointment,lightning struck my can I bring it in for repairs
+277,Rider_Intents,New_Appointment,need to bring it in
+278,Rider_Intents,New_Appointment,damaged and i'd like to bring it in for repair
+279,Rider_Intents,New_Appointment,I'd like to schedule a maintenance appointment
+280,Rider_Intents,New_Appointment,would like to schedule a repair appointment
+281,Rider_Intents,New_Appointment,bring my for checkup
+282,Rider_Intents,New_Appointment,bring my in for service
+283,Rider_Intents,New_Appointment,make an appointment for tomorrow
+284,Rider_Intents,New_Appointment,bring my in for regular maintenance
+285,Rider_Intents,New_Appointment,I need a technician to help fix my turbine
+286,Rider_Intents,New_Appointment,list schedule times
+287,Rider_Intents,New_Appointment,What openings does your field service techs have for next week?
+288,Rider_Intents,New_Appointment,Schedule tech
+289,Rider_Intents,New_Appointment,I need to schedule a new appointment
+290,Rider_Intents,New_Appointment,Who can fix my panel?
+291,Rider_Intents,New_Appointment,what time can my thing be fixed
+292,Rider_Intents,New_Appointment,Schedule my appointment
+293,Rider_Intents,New_Appointment,Schedule service
+294,Rider_Intents,New_Appointment,Need to book a new appointment
+295,Rider_Intents,New_Appointment,when can my stuff be fixed
+296,Rider_Intents,New_Appointment,Schedule a visit
+297,Rider_Intents,New_Appointment,Home visit
+298,Rider_Intents,New_Appointment,Need tech
+299,Rider_Intents,New_Appointment,Hi I need to set up an appointment
+300,Rider_Intents,New_Appointment,Schedule visit
+301,Rider_Intents,New_Appointment,Schedule time
+302,Rider_Intents,New_Appointment,I need an appointment for my appointment
+303,Rider_Intents,New_Appointment,New appointment required
+304,Rider_Intents,New_Appointment,need appointment
+305,Rider_Intents,New_Appointment,I need a technician to repair my broken turbine
+306,Rider_Intents,New_Appointment,What would be a good time for a service tech to come look at our solar panel damage?
+307,Rider_Intents,New_Appointment,I need to schedule a repair for solar panels
+308,Rider_Intents,New_Appointment,New appointment
+309,Rider_Intents,New_Appointment,How do I make appt
+310,Rider_Intents,New_Appointment,I need a new appointment for someone to look at my wind turbine
+311,Rider_Intents,New_Appointment,Need to schedule service
+312,Rider_Intents,New_Appointment,How can I schedule an appt?
+313,Rider_Intents,Reject,Reject
+314,Rider_Intents,Reject,Rejected
+315,Rider_Intents,Reject,Reject that
+316,Rider_Intents,Reject,reject this
+317,Rider_Intents,Reject,reject that job
+318,Rider_Intents,Reject,reject appointment
+319,Rider_Intents,Reject,reject job
+320,Rider_Intents,Reschedule_Appointment,Reschedule my appointment
+321,Rider_Intents,Reschedule_Appointment,Reschedule
+322,Rider_Intents,Reschedule_Appointment,Reschedule that
+323,Rider_Intents,Reschedule_Appointment,I had a last minute thing come up. Can you reschedule?
+324,Rider_Intents,Reschedule_Appointment,Friday doesn't work for me after all. What other options do you have?
+325,Rider_Intents,Reschedule_Appointment,I like to sleep in. Can you come later instead?
+326,Rider_Intents,Reschedule_Appointment,Can you remind me when the technician will get to my house
+327,Rider_Intents,Reschedule_Appointment,Can you also check on my wind turbine when you come out next week?
+328,Rider_Intents,Reschedule_Appointment,Which technician is visiting my home?
+329,Rider_Intents,Reschedule_Appointment,Change appointment
+330,Rider_Intents,Reschedule_Appointment,I want to change my time
+331,Rider_Intents,Reschedule_Appointment,I can't make today work!
+332,Rider_Intents,Reschedule_Appointment,Repair technician
+333,Rider_Intents,Reschedule_Appointment,I'm busy during my time now
+334,Rider_Intents,Reschedule_Appointment,Need to change appointment
+335,Rider_Intents,Reschedule_Appointment,that time doesn't work
+336,Rider_Intents,Reschedule_Appointment,Can't make my time
+337,Rider_Intents,Reschedule_Appointment,Can you get here before noon?
+338,Rider_Intents,Reschedule_Appointment,Change my time
+339,Rider_Intents,Reschedule_Appointment,I'm tied up today and can't make it
+340,Rider_Intents,Reschedule_Appointment,But I hope one of them is sent to me. -:)
+341,Rider_Intents,Reschedule_Appointment,I can't do that day
+342,Rider_Intents,Reschedule_Appointment,When will my service person get here?
+343,Rider_Intents,Reschedule_Appointment,i need a new slot
+344,Rider_Intents,Reschedule_Appointment,Technician help
+345,Rider_Intents,Reschedule_Appointment,"I forgot I’m not gonna be home tomorrow, what other options do you"
+346,Rider_Intents,Reschedule_Appointment,Can I reschedule my appointment to later today
+347,Rider_Intents,Reschedule_Appointment,I need to change my appointment
+348,Rider_Intents,Reschedule_Appointment,Reschedule tech
+349,Rider_Intents,Reschedule_Appointment,Can you send me a reminder about our appointment the day before please?
+350,Rider_Intents,Reschedule_Appointment,Can I reschedule?
+351,Rider_Intents,Reschedule_Appointment,"I forgot what address I gave you for tomorrow, can you tell me what you have on record?"
+352,Rider_Intents,Reschedule_Appointment,When is my appointment?
+353,Rider_Intents,Reschedule_Appointment,Need to switch this to start at 5
+354,Rider_Intents,Reschedule_Appointment,Can you be here by 4pm for the appointment?
+355,Rider_Intents,Reschedule_Appointment,Can you change the time to be here 2 hours earlier? I have to leave early to pickup the kids
+356,Rider_Intents,Reschedule_Appointment,appointment doesn't work
+357,Rider_Intents,Reschedule_Appointment,"I need to move our meeting to next week on Monday, ok?"
+358,Rider_Intents,Reschedule_Appointment,can I come in a different day?
+359,Rider_Intents,Reschedule_Appointment,Can't make it at that time
+360,Rider_Intents,Reschedule_Appointment,Is there another time you're available to fix my solar panel
+361,Rider_Intents,Reschedule_Appointment,My existing appointment
+362,Rider_Intents,Reschedule_Appointment,I need to check on my appointment.
+363,Rider_Intents,Reschedule_Appointment,Move appointment
+364,Rider_Intents,Reschedule_Appointment,Rebook me
+365,Rider_Intents,Reschedule_Appointment,What other schedule options do you have
+366,Rider_Intents,Reschedule_Appointment,Can't make my appointment
+367,Rider_Intents,Reschedule_Appointment,When is my appointment
+368,Rider_Intents,Reschedule_Appointment,Reschedule appointment
+369,Rider_Intents,Reschedule_Appointment,When is my next appointment
+370,Rider_Intents,Reschedule_Appointment,Can you come out sometime next week instead?
+371,Rider_Intents,Reschedule_Appointment,I can't make our appointment work after all
+372,Rider_Intents,Reschedule_Appointment,I don't want to install this wind turbine after all
+373,Rider_Intents,Reschedule_Appointment,I can't make our appointment. How about we reschedule?
+374,Rider_Intents,Reschedule_Appointment,Let's change the repair visit to a different day
+375,Rider_Intents,Reschedule_Appointment,When will the repair tech get here?
+376,Rider_Intents,Reschedule_Appointment,Can you tell the tech that they just missed me?
+377,Rider_Intents,Reschedule_Appointment,Can you send out a maintenance crew later in the day instead?
+378,Rider_Intents,Reschedule_Appointment,What's the name of the employee coming to my house today?
+379,Rider_Intents,Reschedule_Appointment,I'd better reschedule my appointment
+380,Rider_Intents,Reschedule_Appointment,I want to reschedule for another day
+381,Rider_Intents,Reschedule_Appointment,How long until the repair guy gets here?
+382,Rider_Intents,Reschedule_Appointment,I don't need you to come out to my house anymore.
+383,Rider_Intents,Reschedule_Appointment,Can you tell the repair person to text me when they get here?
+384,Rider_Intents,Reschedule_Appointment,Please tell the driver to go ahead and get started. I'll meet him outside a little later
+385,Rider_Intents,Reschedule_Appointment,Can you move my appointment to later in the week?
+386,Rider_Intents,Reschedule_Appointment,I'd like another date for my appointment
+387,Rider_Intents,Reschedule_Appointment,"Uh oh, I need to reschedule my solar panel install"
+388,Rider_Intents,Select_Appointments,view assignments
+389,Rider_Intents,Select_Appointments,view my work
+390,Rider_Intents,Select_Appointments,show assignments
+391,Rider_Intents,Select_Appointments,my jobs
+392,Rider_Intents,Select_Appointments,all jobs
+393,Rider_Intents,Select_Appointments,show jobs
+394,Rider_Intents,Select_Appointments,view appointments
+395,Rider_Intents,Select_Appointments,What Service Appointments do I have?
+396,Rider_Intents,Select_Appointments,view all appointments
+397,Rider_Intents,Select_Appointments,show me my appointments
+398,Rider_Intents,Select_Appointments,select my appointments
+399,Rider_Intents,Select_Appointments,choose appointments
+400,Rider_Intents,Select_Appointments,where are all my appointments?
+401,Rider_Intents,Select_Appointments,select a different service
+402,Rider_Intents,Select_Appointments,how do I see my appointments?
+403,Rider_Intents,Select_Appointments,what services do i have?
+404,Rider_Intents,Select_Appointments,view my appointments
+405,Rider_Intents,Select_Appointments,show me my meetings
+406,Rider_Intents,Select_Appointments,Choose Appointment
+407,Rider_Intents,Select_Appointments,see appointments
+408,Rider_Intents,Select_Appointments,select a different appointment
+409,Rider_Intents,Select_Appointments,what are my appointments?
+410,Rider_Intents,Select_Appointments,what appointments do I have?
+411,Rider_Intents,Select_Appointments,change appointment
+412,Rider_Intents,Select_Appointments,select a different one
+413,Rider_Intents,Select_Appointments,Select
+414,Rider_Intents,Select_Appointments,What are my service appointments?
+415,Rider_Intents,Select_Appointments,Do i have upcoming appointments?
+416,Rider_Intents,Select_Appointments,where are my appointments?
+417,Rider_Intents,Select_Appointments,Select Appointments
+418,Rider_Intents,Thanks,Thank you
+419,Rider_Intents,Thanks,Great
+420,Rider_Intents,Thanks,thanks rider
+421,Rider_Intents,Thanks,awesome
+422,Rider_Intents,Thanks,Ok
+423,Rider_Intents,Thanks,thanks
+424,Rider_Intents,Thanks,Great!
+425,Rider_Intents,Thanks,Awesome!
+426,Rider_Intents,Thanks,thanks a lot
+427,Rider_Intents,Thanks,Thanks!
+428,Rider_Intents,Thanks,okie dokie
+429,Rider_Intents,Thanks,sweet thanks
+430,Rider_Intents,Thanks,amazing! Thank you.
+431,Rider_Intents,Thanks,cool
+432,Rider_Intents,Transfer_to_Agent,to talk to a live agent
+433,Rider_Intents,Transfer_to_Agent,send me to a human
+434,Rider_Intents,Transfer_to_Agent,do not want to chat with a bot
+435,Rider_Intents,Transfer_to_Agent,how do I get to a human
+436,Rider_Intents,Transfer_to_Agent,how do I talk to a person
+437,Rider_Intents,Transfer_to_Agent,want a human
+438,Rider_Intents,Transfer_to_Agent,I want you to transfer me to a human right now
+439,Rider_Intents,Transfer_to_Agent,really need a human being
+440,Rider_Intents,Transfer_to_Agent,want to chat with a real person
+441,Rider_Intents,Transfer_to_Agent,want to chat with a human being
+442,Rider_Intents,Transfer_to_Agent,transfer me to a chat agent
+443,Rider_Intents,Transfer_to_Agent,send me to a live agent
+444,Rider_Intents,Transfer_to_Agent,Transfer me to an agent
+445,Rider_Intents,Transfer_to_Agent,I want to talk with someone else
+446,Rider_Intents,Transfer_to_Agent,send me to an agent
+447,Rider_Intents,Transfer_to_Agent,a real person to chat with
+448,Rider_Intents,Transfer_to_Agent,Help me now please!
+449,Rider_Intents,Transfer_to_Agent,I need service
+450,Rider_Intents,Transfer_to_Agent,Can I talk to a human?
+451,Rider_Intents,Transfer_to_Agent,Human
+452,Rider_Intents,Transfer_to_Agent,Why am I talking to a robot?
+453,Rider_Intents,Transfer_to_Agent,Are you a bot? I'd like a human
+454,Rider_Intents,Transfer_to_Agent,Transfer to billing department
+455,Rider_Intents,Transfer_to_Agent,Agent damn it
+456,Rider_Intents,Transfer_to_Agent,Let me chat with car
+457,Rider_Intents,Transfer_to_Agent,I want to chat with customer service
+458,Rider_Intents,Transfer_to_Agent,I want to talk with a person
+459,Rider_Intents,Transfer_to_Agent,Talk to manager
+460,Rider_Intents,Transfer_to_Agent,I want to chat with a rep
+461,Rider_Intents,Transfer_to_Agent,Connect me to an agent!
+462,Rider_Intents,Transfer_to_Agent,Speak with supervisor
+463,Rider_Intents,Transfer_to_Agent,I want to speak with customer service
+464,Rider_Intents,Transfer_to_Agent,Can you transfer me?
+465,Rider_Intents,Transfer_to_Agent,Person please
+466,Rider_Intents,Transfer_to_Agent,Connect me to a human
+467,Rider_Intents,Transfer_to_Agent,Can I talk to a manager
+468,Rider_Intents,Transfer_to_Agent,Do you have any real humans to can talk to?
+469,Rider_Intents,Transfer_to_Agent,Chat with supervisor
+470,Rider_Intents,Transfer_to_Agent,Talk to an agent!
+471,Rider_Intents,Transfer_to_Agent,I need an agent!
+472,Rider_Intents,Transfer_to_Agent,chat with a human
+473,Rider_Intents,Transfer_to_Agent,Transfer me
+474,Rider_Intents,Transfer_to_Agent,Can I talk with a human
+475,Rider_Intents,Transfer_to_Agent,Send me to your supervisor
+476,Rider_Intents,Transfer_to_Agent,Give me an agent.
+477,Rider_Intents,Transfer_to_Agent,Can I talk to an agent?
+478,Rider_Intents,Transfer_to_Agent,Need to speak with support
+479,Rider_Intents,Transfer_to_Agent,Connect agent
+480,Rider_Intents,Transfer_to_Agent,"Agent, please!"
+481,Rider_Intents,Transfer_to_Agent,Contact agent
+482,Rider_Intents,Transfer_to_Agent,I want to speak with support
+483,Rider_Intents,Transfer_to_Agent,I need to speak with an agent
+484,Rider_Intents,Transfer_to_Agent,I want a human
+485,Rider_Intents,Transfer_to_Agent,A human could do a better job here
+486,Rider_Intents,Transfer_to_Agent,Speak with human
+487,Rider_Intents,Transfer_to_Agent,Agent please!
+488,Rider_Intents,Transfer_to_Agent,"bill is a smart guy, can you transfer me to him"
+489,Rider_Intents,Transfer_to_Agent,Just send me to a human
+490,Rider_Intents,Transfer_to_Agent,I don't think you can help me
+491,Rider_Intents,Transfer_to_Agent,"Take me to a human, I don't want to talk to you"
+492,Rider_Intents,Transfer_to_Agent,Representative
+493,Rider_Intents,Transfer_to_Agent,I just want to be transferred to someone who knows what they're saying
+494,Rider_Intents,Transfer_to_Agent,Can you pls transfer me now?
+495,Rider_Intents,Transfer_to_Agent,Can I talk with someone
+496,Rider_Intents,Transfer_to_Agent,Agent
+497,Rider_Intents,Transfer_to_Agent,I want to talk to a human!
+498,Rider_Intents,Transfer_to_Agent,Let me chat with CSR
+499,Rider_Intents,Transfer_to_Agent,Can I chat with person instead?
+500,Rider_Intents,Transfer_to_Agent,Let me chat with customer service
+501,Rider_Intents,Transfer_to_Agent,Speak to agent
+502,Rider_Intents,Transfer_to_Agent,Transfer me to a person
+503,Rider_Intents,Transfer_to_Agent,Chat with human
+504,Rider_Intents,Transfer_to_Agent,Let me talkt o someone
+505,Rider_Intents,Transfer_to_Agent,Transfer manager
+506,Rider_Intents,Transfer_to_Agent,0
+507,Rider_Intents,Transfer_to_Agent,Talk to a person
+508,Rider_Intents,Transfer_to_Agent,Ugh I'm tired of talking to a robot send me to a human
+509,Rider_Intents,Transfer_to_Agent,Connect me to an agent
+510,Rider_Intents,Transfer_to_Agent,Speak with person
+511,Rider_Intents,Transfer_to_Agent,Don't know how much I am paying you
+512,Rider_Intents,Transfer_to_Agent,I don't love talking to a bot
+513,Rider_Intents,Transfer_to_Agent,I need help from an agent!
+514,Rider_Intents,Transfer_to_Agent,Ask agent
+515,Rider_Intents,Transfer_to_Agent,Just connect me to a human.
+516,Rider_Intents,Transfer_to_Agent,Can I ask someone?
+517,Rider_Intents,Transfer_to_Agent,I really need to be transferred
+518,Rider_Intents,Transfer_to_Agent,I want to go to an agent
+519,Rider_Intents,Transfer_to_Agent,Transfer to supervisor
+520,Rider_Intents,Transfer_to_Agent,want a real person
+521,Rider_Intents,Transfer_to_Agent,transfer me to a human
+522,Rider_Intents,Transfer_to_Agent,transfer to agent
+523,Rider_Intents,Transfer_to_Agent,human being to talk to
+524,Rider_Intents,Transfer_to_Agent,I'd like to learn more about your solar solution. Do you have someone available that can walk me and my wife through the benefits and costs?
+525,Rider_Intents,Transfer_to_Agent,want to chat with a real person
+526,Rider_Intents,Transfer_to_Agent,want to chat with a human being
+527,Rider_Intents,Transfer_to_Agent,transfer me to a chat agent
+528,Rider_Intents,Transfer_to_Agent,send me to a live agent
+529,Rider_Intents,Transfer_to_Agent,want a real person
+530,Rider_Intents,Transfer_to_Agent,transfer me to a human
+531,Rider_Intents,Transfer_to_Agent,transfer to agent
+532,Rider_Intents,Transfer_to_Agent,human being to talk to
+533,Rider_Intents,Transfer_to_Agent,chat with a human
+534,Rider_Intents,Transfer_to_Agent,send me to an agent
+535,Rider_Intents,Transfer_to_Agent,a real person to chat with
+536,Rider_Intents,Transfer_to_Agent,to talk to a live agent
+537,Rider_Intents,Transfer_to_Agent,send me to a human
+538,Rider_Intents,Transfer_to_Agent,do not want to chat with a bot
+539,Rider_Intents,Transfer_to_Agent,how do I get to a human
+540,Rider_Intents,Transfer_to_Agent,chat with a human
+541,Rider_Intents,Transfer_to_Agent,how do I talk to a person
+542,Rider_Intents,Transfer_to_Agent,want a human
+543,Rider_Intents,Transfer_to_Agent,I want you to transfer me to a human right now
+544,Rider_Intents,Transfer_to_Agent,really need a human being
+545,Rider_Intents,Transfer_to_Agent,chat with a live agent
+546,Rider_Intents,Transfer_to_Agent,really need a human being
+547,Rider_Intents,Transfer_to_Agent,I want you to transfer me to a human right now
+548,Rider_Intents,Transfer_to_Agent,want a human
+549,Rider_Intents,Transfer_to_Agent,how do I talk to a person
+550,Rider_Intents,Transfer_to_Agent,chat with a human
+551,Rider_Intents,Transfer_to_Agent,how do I get to a human
+552,Rider_Intents,Transfer_to_Agent,do not want to chat with a bot
+553,Rider_Intents,Transfer_to_Agent,send me to a human
+554,Rider_Intents,Transfer_to_Agent,to talk to a live agent
+555,Rider_Intents,Transfer_to_Agent,a real person to chat with
+556,Rider_Intents,Transfer_to_Agent,send me to an agent
+557,Rider_Intents,Transfer_to_Agent,chat with a human
+558,Rider_Intents,Transfer_to_Agent,human being to talk to
+559,Rider_Intents,Transfer_to_Agent,transfer to agent
+560,Rider_Intents,Transfer_to_Agent,transfer me to a human
+561,Rider_Intents,Transfer_to_Agent,want a real person
+562,Rider_Intents,Transfer_to_Agent,send me to a live agent
+563,Rider_Intents,Transfer_to_Agent,transfer me to a chat agent
+564,Rider_Intents,Transfer_to_Agent,want to chat with a human being
+565,Rider_Intents,Transfer_to_Agent,want to chat with a real person
