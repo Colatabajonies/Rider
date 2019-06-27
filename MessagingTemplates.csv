@@ -9,5 +9,5 @@ Rider_Status,en_US,Rider - Status,"Appointment Info:
 {!ServiceAppointment.AppointmentNumber}
 Subject: {!ServiceAppointment.Subject}
 Status: {!ServiceAppointment.Status}
-StartTime: {!ServiceAppointment.Rider_StartTime__c}
+StartTime: {!ServiceAppointment.SchedStartTime}
 Location: {!ServiceAppointment.Street} {!ServiceAppointment.City}, {!ServiceAppointment.State} {!ServiceAppointment.PostalCode}",This is the template format for a customer requesting their SA status from rider.
